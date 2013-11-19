@@ -24,7 +24,7 @@ public class usuario implements Serializable {
     public Long getId() {
         return id;
     }
-
+//linea de pruebaba para github
     public void setId(Long id) {
         this.id = id;
     }
