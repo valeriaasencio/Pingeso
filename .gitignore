@@ -1,6 +1,9 @@
-/pingesoEJBModule/build/
-/pingesoEE/build/
-/pingesoEJBModule/dist/
 /pingesoWebApplication/build/
 /pingesoWebApplication/dist/
+/pingesoWebApplication/nbproject/private/
+/pingesoEJBModule/build/
+/pingesoEJBModule/dist/
+/pingesoEJBModule/nbproject/private/
+/pingesoEE/build/
 /pingesoEE/dist/
+/pingesoEE/nbproject/private/
